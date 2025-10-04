@@ -27,3 +27,7 @@
 ## Data
 - https://gtfs.org/ -- GTFS is a community-driven open standard for rider-facing transit information.
 - https://gtfstohtml.com/ -- Generate human-readable HTML timetables from GTFS
+
+
+# Companies
+- https://blinktag.com/ -- We make technology easy for city and transportation professionals.
